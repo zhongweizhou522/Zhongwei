@@ -62,5 +62,6 @@
   "main": "postcss.config.js",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://myusername.github.io/my-app"
 }
